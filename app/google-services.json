@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "636515717049",
+    "project_id": "houseprice-14ba5",
+    "storage_bucket": "houseprice-14ba5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636515717049:android:a145810cf8986f5f4bb068",
+        "android_client_info": {
+          "package_name": "com.example.houseprice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636515717049-hvh9h66e7lbug7huu02ef7p2ocsdfrfh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPec5wv5px0oiVTsSxDDh_ZkxdRoihIk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636515717049-hvh9h66e7lbug7huu02ef7p2ocsdfrfh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
